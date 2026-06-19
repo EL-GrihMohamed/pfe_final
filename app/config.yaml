@@ -1,0 +1,33 @@
+# Configuration des comptes utilisateurs
+# Format: identifiant: {nom_affiché, département, mot_de_passe}
+
+users:
+  chef_informatique:
+    name: "M. Alaoui"
+    department: "Informatique"
+    password: "fsbm2025"
+
+  chef_gestion:
+    name: "Mme. Benali"
+    department: "Gestion"
+    password: "fsbm2025"
+
+  chef_tourisme:
+    name: "M. El Fassi"
+    department: "Tourisme"
+    password: "fsbm2025"
+
+  chef_infirmiers:
+    name: "Mme. Amrani"
+    department: "Soins infirmiers"
+    password: "fsbm2025"
+
+  chef_ingenierie:
+    name: "M. Tazi"
+    department: "Ingénierie informatique"
+    password: "fsbm2025"
+
+  admin:
+    name: "Administration"
+    department: "Administration"
+    password: "admin2025"
